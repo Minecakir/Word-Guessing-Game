@@ -19,3 +19,6 @@ This program must be coded using two classes. (In addition, the "main function" 
 *  Another class named **Words** will pay attention to the game rules, follow the game status and manage the user input and output.
 
 ![Adsız](https://user-images.githubusercontent.com/67970973/88230862-d54f2900-cc7b-11ea-8fe9-9b52ce89020c.png)
+
+
+![Adsız2](https://user-images.githubusercontent.com/67970973/88231360-c61cab00-cc7c-11ea-8a8a-49e5d1f49be3.png)
