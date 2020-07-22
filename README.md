@@ -9,8 +9,8 @@ Each round the player will guess a word. If the prediction is correct, the compu
 >> 
 #### Any letter in your secret word should only be matched once. For example,
 >
-> -Secret word: cable
-> -Guess: eagle
+> - Secret word: cable
+> - Guess: eagle
 >
 >* Results* in 3,3 , **not** 4,3.
   
