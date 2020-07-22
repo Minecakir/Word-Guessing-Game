@@ -12,5 +12,5 @@ Each round the player will guess a word. If the prediction is correct, the compu
 > - Secret word: cable
 > - Guess: eagle
 >
->* Results* in 3,3 , **not** 4,3.
+> *Results* in 3,3 , **not** 4,3.
   
