@@ -1,7 +1,5 @@
 # First-Year-Final
-<span style="color: blue;"># Word Guessing Game</span>
-1
-<span style="color: blue;">Buraya yazılan yazılar mavi renkte olacaktır.</span>
+<span style="color: blue;">Word Guessing Game</span>
 ### In this program we will play a word guessing game. In this game, we will randomly select a five-letter word from a computer-generated dictionary.
 
 All the words read from the file will be kept in set <string> words, valid words will be transferred into vector <string> secrets and random secret will be selected from this vector. Examples of these structures are given in the files below. You can carefully examine and use the relevant sections in your own code.
