@@ -15,6 +15,6 @@ Each round the player will guess a word. If the prediction is correct, the compu
 > *Results* in 3,3 , **not** 4,3.
 
 This program must be coded using two classes. (In addition, the "main function" and preferably the source file from which the functions are defined).
-*  The class called Dictionary must perform the search functions to enter and store words, to select a random word from the list, and to verify that they are in the dictionary. Dictionary will use a set <string> for efficient search. The function that selects a random word should not select a word with a repeated letter. (The guesswork might be a repeated letter word.)
-*  Another class named Words will pay attention to the game rules, follow the game status and manage the user input and output.
+*  The class called **Dictionary** must perform the search functions to enter and store words, to select a random word from the list, and to verify that they are in the dictionary. Dictionary will use a set <string> for efficient search. The function that selects a random word should not select a word with a repeated letter. (The guesswork might be a repeated letter word.)
+*  Another class named **Words** will pay attention to the game rules, follow the game status and manage the user input and output.
 
