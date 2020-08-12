@@ -23,3 +23,6 @@ This program must be coded using two classes. (In addition, the "main function" 
 
 
 ![Adsız2](https://user-images.githubusercontent.com/67970973/88231360-c61cab00-cc7c-11ea-8a8a-49e5d1f49be3.png)
+
+![Adsız](https://user-images.githubusercontent.com/67970973/90014946-86ac1200-dcb0-11ea-91a7-a98b3d2ffed2.png)
+
